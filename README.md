@@ -1,5 +1,5 @@
- <h1 align="center">Olá mundo 👋 eu sou a Deborah.</h1>
-<h3 align="center">Sou apaixonada por análise e ciência de dados no mundo digital.</h3>
+ <h1 align="center">Olá mundo! 👋 Eu sou a Deborah.</h1>
+<h3 align="center">Sou apaixonada por análise de dados no mundo digital.</h3>
 
 - 📝 Aqui estão minhas habilidades: [(https://www.linkedin.com/in/lucenadeborah)](https://www.linkedin.com/in/lucenadeborah)
 
